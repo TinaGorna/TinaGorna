@@ -22,6 +22,6 @@
 ## MY CONTACTS
 [<img src="./Linkedin.svg/">](https://www.linkedin.cn/in/kristina-gorbunova/)
 [<img src="./Instagram1.svg">](https://www.instagram.com/tina.gorna/)
-[<img src="./behance 1.svg">](https:/www.behance.net/kristingorbuno/)
+[<img src="./behance 1.svg">](https://www.behance.net/kristingorbuno/)
 
 
