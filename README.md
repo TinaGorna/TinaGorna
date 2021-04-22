@@ -1,8 +1,8 @@
 ## Hi there! 👋 My name is Kristina.
-* 😊 I'm responsible, motivated, easy-to-learn React Frontend Developer open to work now.
-* 😍 I like programming because it's interesting for me to create something, to make user interface alive and friendly.
-* 🌱 I’m currently learning technologies associated with Frontend.
-* 👯 I will be glad to share my experience and learn from other developers.
+* ♨ Meticulous Frond End Developer with a Bachelor's degree in Linguistics and a great passion for responsive website design
+* ➠ True craftmanship is when 'design' and 'build' work together.
+* Which is why I not only ask myself 'does it look good?' I'm also thinking 'will it work well?' 
+➠ With me it's not all about image, its all about keeping website on its toes and at the top of its game
 * 🥅 My the 2021 goal is to become a cool React Frontend Developer.
 
 ## MY PORTFOLIO
