@@ -19,6 +19,6 @@
 ![Git](/vscode.svg)
 
 ## MY CONTACTS
-[<img src="./Linkedin.svg">](добавить ссылку)
+[<img src="./https://www.linkedin.cn/in/kristina-gorbunova/">](добавить ссылку)
 [<img src="./Instagram1.svg">](https://www.instagram.com/tina.gorna/)
 
