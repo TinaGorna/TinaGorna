@@ -10,13 +10,13 @@
 
 ## MY TECHNOLOGY STACK AND TOOLS
 ![React](/react.svg)
-![Redux](/svg/redux.svg)
-![JS](/svg/JS.svg)
-![TS](/svg/TS.svg)
-![HTML](/svg/html-5.svg)
-![CSS](/svg/css3.svg)
-![Git](/svg/git.svg)
-![Git](/svg/vscode.svg)
+![Redux](/redux.svg)
+![JS](/JS.svg)
+![TS](/TS.svg)
+![HTML](/html-5.svg)
+![CSS](/css3.svg)
+![Git](/git.svg)
+![Git](/vscode.svg)
 
 ## MY CONTACTS
 [<img src="./svg/Linkedin.svg">](добавить ссылку)
