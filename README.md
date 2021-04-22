@@ -17,6 +17,7 @@
 ![CSS](/css3.svg)
 ![Git](/git.svg)
 ![Git](/vscode.svg)
+![Git](/vscode.svg)
 ![Git](/Figma 1.svg)
 
 ## MY CONTACTS
