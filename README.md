@@ -1,5 +1,5 @@
 ## Hi there! 👋 My name is Kristina.
-##ṪṦ Meticulous Frond End Developer with a Bachelor's degree in Linguistics and a great passion for responsive website design
+§ Meticulous Frond End Developer with a Bachelor's degree in Linguistics and a great passion for responsive website design
 * ➠ True craftmanship is when 'design' and 'build' work together:
 * Which is why I not only ask myself 'does it look good?' I'm also thinking 'will it work well?' 
 ➠ With me it's not all about image, its all about keeping website on its toes and at the top of its game
