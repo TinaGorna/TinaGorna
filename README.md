@@ -9,7 +9,7 @@
 [CLICK HERE=)](Добавить ссылку) 
 
 ## MY TECHNOLOGY STACK AND TOOLS
-![React](/svg/react.svg)
+![React](/react.svg)
 ![Redux](/svg/redux.svg)
 ![JS](/svg/JS.svg)
 ![TS](/svg/TS.svg)
