@@ -20,5 +20,5 @@
 
 ## MY CONTACTS
 [<img src="./svg/Linkedin.svg">](добавить ссылку)
-[<img src="./svg/twitter.svg">](https://www.instagram.com/tina.gorna/)
+[<img src="./svg/instagram.png">](https://www.instagram.com/tina.gorna/)
 
