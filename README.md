@@ -17,6 +17,7 @@
 ![CSS](/css3.svg)
 ![Git](/git.svg)
 ![Git](/vscode.svg)
+![Git](/Figma 1.svg)
 
 ## MY CONTACTS
 [<img src="./Linkedin.svg/">](https://www.linkedin.cn/in/kristina-gorbunova/)
