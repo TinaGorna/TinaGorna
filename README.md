@@ -18,7 +18,7 @@
 ![Git](/git.svg)
 ![Git](/vscode.svg)
 ![Git](/vscode.svg)
-![Git](/Figma 1.svg)
+![Git](/Figma.svg)
 
 ## MY CONTACTS
 [<img src="./Linkedin.svg/">](https://www.linkedin.cn/in/kristina-gorbunova/)
