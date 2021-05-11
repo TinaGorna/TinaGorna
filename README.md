@@ -5,7 +5,7 @@
 * 🔥 My 2021 goal is to become a cool React Frontend Developer
 
 ## MY PORTFOLIO
-[CLICK HERE=)](Добавить ссылку) 
+[https://tinagorna.github.io/portfolio/] 
 
 ## MY TECHNOLOGY STACK AND TOOLS
 ![React](/react.svg)
