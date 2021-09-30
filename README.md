@@ -4,7 +4,7 @@
 * ➠ With me it's not all about image, its all about keeping website on its toes and at the top of its game
 
 ## MY PORTFOLIO
-https://tinagorna.github.io/portfolio/
+
 
 ## MY TECHNOLOGY STACK AND TOOLS
 ![React](/react.svg)
