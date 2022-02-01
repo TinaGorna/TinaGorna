@@ -1,9 +1,4 @@
-## Bonjour! 👋 My name is Kristina
-* ➠ Frond End Developer with Bachelor's degree in Linguistics and a great passion for responsive website design
-* ➠ True craftmanship is when 'design' and 'build' work together
-* ➠ With me it's not all about image, its all about keeping website on its toes and at the top of its game
 
-## MY PORTFOLIO
 
 
 ## MY TECHNOLOGY STACK AND TOOLS
