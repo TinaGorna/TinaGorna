@@ -9,7 +9,6 @@
 ![HTML](/html-5.svg)
 ![CSS](/css3.svg)
 ![Git](/git.svg)
-![Git](/vscode.svg)
 ![Git](/Figma.svg)
 
 ## MY CONTACTS
