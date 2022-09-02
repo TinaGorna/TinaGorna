@@ -19,6 +19,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="50px" height="50px"/>
   </br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" width="50px" height="50px"/>
+  </br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="50px" height="50px"/>
   </div>
   
   <h1 align = "center">¡Hola amigos! </h1>
