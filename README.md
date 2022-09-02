@@ -16,9 +16,9 @@
 ![GitHub](https://camo.githubusercontent.com/57f20624301392d93f9eddcdf52a9167a136f4a43c3c99456724c5ef329f0684/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53746f7279426f6f6b2d3238326333343f7374796c653d666f722d7468652d6261646765266c6f676f3d53746f7279426f6f6b)
 ![Storybook](https://camo.githubusercontent.com/710634f2b02dd538e5aaf212ce1ad01d861922b2911017282dff7d7666c63c70/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6174657269616c5f55492d3238326333343f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6174657269616c5f64657369676e)
   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="50px" height="50px"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" width="50px" height="50px"/>
   </br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" width="50px" height="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="50px" height="50px"/>
   </br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="50px" height="50px"/>
   </div>
