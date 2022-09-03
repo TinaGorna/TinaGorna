@@ -1,7 +1,9 @@
 
 
 <div id="header" align="center">
-<img src="https://cdn.dribbble.com/users/4207100/screenshots/19288024/media/7149a4732a13f7a38bebe3ea1b5d0075.png?compress=1&resize=1200x900&vertical=top" width="400px" height="300px"/>
+<div align="center">
+  <img src="https://media0.giphy.com/media/PmAjqmm4beKervYzFr/giphy.gif?cid=ecf05e47bbijx8exszqqcxxamp2ihd8dmctwn5ehe7xs20e7&rid=giphy.gif&ct=g" width="400" height="300"/>
+</div>
 
   
  ### :hammer_and_wrench: Languages and Tools :
@@ -22,13 +24,6 @@
   </br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="50px" height="50px"/>
   </div>
-  
-  <h1 align = "center">¡Hola amigos! </h1>
-  
-
-  <div align="center">
-  <img src="https://media0.giphy.com/media/PmAjqmm4beKervYzFr/giphy.gif?cid=ecf05e47bbijx8exszqqcxxamp2ihd8dmctwn5ehe7xs20e7&rid=giphy.gif&ct=g" width="400" height="300"/>
-</div>
 
 ### :woman_technologist: About Me :
 I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
