@@ -33,8 +33,6 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 -  In my free time, I solve problems on CodeWars and read tech articles.
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=TinaGorna&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TinaGorna)](https://github.com/anuraghazra/github-readme-stats)
 
